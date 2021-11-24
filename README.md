@@ -1,6 +1,16 @@
-# Cat-vs-Dog-Detector-Flutter-TensorFlowLite
-The Cat Vs Dog Scanner app will identify your dog's &amp; cat's breed reliably in just a few seconds! 
+# cat_vs_dog_detector
 
-Besides taking a picture, you can also record a video or upload an image from your gallery. 
+A new Flutter project.
 
-The app is made with Flutter and TensorFlow Lite!
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
